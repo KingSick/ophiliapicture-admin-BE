@@ -1,2 +1,2 @@
-# Ophilia Picture Admin
-> Python + Rust 
+# Ophilia Picture Admin Auth Servier
+> Python 
